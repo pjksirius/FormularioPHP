@@ -1,0 +1,16 @@
+{
+    "name": "admin/connection_bdo",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Admin\\ConnectionBdo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Riana"
+        }
+    ],
+    "require": {}
+}
